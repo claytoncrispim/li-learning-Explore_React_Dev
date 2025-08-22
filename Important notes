@@ -1,0 +1,19 @@
+From the Quiz:
+
+npm install --save-exact react@rc react-dom@rc
+
+This command installs the specified versions of react and react-dom as exact release candidates (rc), ensuring no version discrepancies.
+
+------------------------------------------------------
+
+In order to properly execute npm run dev, apparently each exercise folder, e.g. 02_02b etc, need to have Vite installed. So every time you're working in new exercise folder, do the following steps:
+
+cd folder (e.g 02_02b)
+npm create vite@latest react-project -- --template react
+\*\* the post instructions will ask you to run
+
+cd react-project
+npm install
+npm run dev
+
+Source: Initializing a project with Vite - https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Freact-essential-training%2Finitializing-a-project-with-vite%3Ftrk%3Dshare_video_url%26shareId%3DO3g5FVeBQZaTVAmSmzcJAw%253D%253D
