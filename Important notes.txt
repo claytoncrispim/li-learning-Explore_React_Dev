@@ -22,3 +22,5 @@ Source: Initializing a project with Vite - https://www.linkedin.com/learning-log
 *****
 
 I decided to continue working Chapter 5's next steps in the 05_01_b folder so I don't need to reinstall all the depencies
+
+For the challenge in that Chapter, I've installed npm on 05_04b's nex-react-project folder instead of redoing all the instalations to avoid errors. It seems to work.
