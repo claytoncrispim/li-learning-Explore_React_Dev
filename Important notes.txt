@@ -17,3 +17,8 @@ npm install
 npm run dev
 
 Source: Initializing a project with Vite - https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Freact-essential-training%2Finitializing-a-project-with-vite%3Ftrk%3Dshare_video_url%26shareId%3DO3g5FVeBQZaTVAmSmzcJAw%253D%253D
+
+
+*****
+
+I decided to continue working Chapter 5's next steps in the 05_01_b folder so I don't need to reinstall all the depencies
